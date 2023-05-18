@@ -14,7 +14,7 @@ My Journey to learn ChatGPT prompt engineering on DeepLearning.ai. https://sprin
 
 ## Progress
 
-- [ ] A - Introduction
+- [x] A - Introduction
 - [ ] B - Guidelines
 - [ ] C - Iterative
 - [ ] D - Summarizing
@@ -25,3 +25,8 @@ My Journey to learn ChatGPT prompt engineering on DeepLearning.ai. https://sprin
 - [ ] I - Conclusion
 - [ ] J - Course Feedback
 - [ ] K - Community
+
+## Intructor
+
+- [Isabella FulFord (OpenAI)](https://www.linkedin.com/in/isabella-fulford/)
+- [Andrew Ng (deeplearning.ai)](https://www.linkedin.com/in/andrewyng)
