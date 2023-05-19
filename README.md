@@ -1,6 +1,6 @@
 # ChatGPT Prompt Engineering for Developers (by DeepLearning.ai)
 
-My Journey to learn ChatGPT prompt engineering on DeepLearning.ai. <https://spring.academy/courses/building-a-rest-api-with-spring-boot>
+My Journey to learn ChatGPT prompt engineering on DeepLearning.ai. <https://learn.deeplearning.ai/chatgpt-prompt-eng>
 
 ## This Short Course Provides ChatGPT Prompt Engineering for
 
