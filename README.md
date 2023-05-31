@@ -15,7 +15,7 @@ My Journey to learn ChatGPT prompt engineering on DeepLearning.ai. <https://lear
 ## Progress
 
 - [x] [A - Introduction](Notes/A)
-- [ ] [B - Guidelines](Notes/B)
+- [x] [B - Guidelines](Notes/B)
 - [ ] [C - Iterative](Notes/C)
 - [ ] [D - Summarizing](Notes/D)
 - [ ] [E - Inferring](Notes/E)
